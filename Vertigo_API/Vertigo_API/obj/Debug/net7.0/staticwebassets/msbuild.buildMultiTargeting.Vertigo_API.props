@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vertigo_API.props" />
+</Project>
